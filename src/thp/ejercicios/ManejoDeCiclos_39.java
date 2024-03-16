@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_39 {
+public class ManejoDeCiclos_39 {
 
 	public static Scanner input = new Scanner(System.in);
 	static final int MIN_JUGADORES = 2;
