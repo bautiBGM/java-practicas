@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class PrimerosPasosEnJava {
+public class PrimerosPasosEnJava_01 {
 	
 	public static Scanner entrada = new Scanner(System.in);
 	
