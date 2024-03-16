@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio_35 {
+public class ManejoDeCiclos_35 {
 
 	public static Scanner input = new Scanner (System.in);
 	static final String  TERMINAR = "*";
