@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_03 {
+public class PrimerosPasosEnJava_03 {
 	public static Scanner entero = new Scanner(System.in);
 	public static void main(String[] args) {
 
