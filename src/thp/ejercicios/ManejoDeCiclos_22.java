@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 
-public class Ejercicio_22 {
+public class ManejoDeCiclos_22 {
 
 	
 	public static void main(String[] args) {
