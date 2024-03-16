@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio_29 {
+public class ManejoDeCiclos_29 {
 
 	public static Scanner input = new Scanner (System.in);
 		static final int NOTA_MIN = 0;
