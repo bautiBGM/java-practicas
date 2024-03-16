@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_31 {
+public class ManejoDeCiclos_31 {
 
 	public static Scanner input = new Scanner(System.in);
 	static final char SUMA = '+';
