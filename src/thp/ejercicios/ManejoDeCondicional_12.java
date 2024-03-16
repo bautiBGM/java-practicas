@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio_12 {
+public class ManejoDeCondicional_12 {
 
 	public static Scanner entrada = new Scanner (System.in);
 	public static void main(String[] args) {
