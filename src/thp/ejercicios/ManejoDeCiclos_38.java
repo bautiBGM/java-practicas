@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_38 {
+public class ManejoDeCiclos_38 {
 
 	public static Scanner input = new Scanner(System.in);
 	static final int INTENTOS = 3;
