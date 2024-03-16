@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_37 {
+public class ManejoDeCiclos_37 {
 
 	public static Scanner input = new Scanner(System.in);
 	static final int VALORES_PERMITIDOS = 12;
@@ -25,4 +25,4 @@ public class Ejercicio_37 {
 		System.out.println("el sueldo percibido por el empleado en " +contMeses + " mes/ses, es de: $" + sumaSueldo);
 	}
 
-}
+}
