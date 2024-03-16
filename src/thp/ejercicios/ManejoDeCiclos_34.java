@@ -2,7 +2,7 @@ package thp.ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio_34 {
+public class ManejoDeCiclos_34 {
 
 	public static Scanner input = new Scanner(System.in);
 	static final double SALIDA = 0;
