@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio_26 {
+public class ManejoDeCiclos_26 {
 
 	public static Scanner input = new Scanner (System.in);
 	public static void main(String[] args) {
