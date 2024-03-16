@@ -1,7 +1,7 @@
 package thp.ejercicios;
 
 import java.util.Scanner;
-public class Ejercicio_30 {
+public class ManejoDeCiclos_30 {
 
 	public static Scanner input = new Scanner (System.in);
 		static final char SUMA = '+'; 
